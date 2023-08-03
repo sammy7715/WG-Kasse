@@ -1,2 +1,2 @@
 # WG-Kasse
-Simple transation tracker using the ComDirect API.
+Simple transaction tracker using the ComDirect API.
